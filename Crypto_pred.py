@@ -1,8 +1,5 @@
-import numpy as np
-import seaborn as sns
 import yfinance as yf
 import streamlit as st
-import pandas as pd
 import datetime
 from prophet import Prophet
 import streamlit as st
